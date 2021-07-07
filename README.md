@@ -16,5 +16,5 @@ Python3 pachong_1229.py
 
  
 
-<video src="操作视频.mp4"></video>
+<video src="./操作视频.mp4"></video>
 

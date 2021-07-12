@@ -18,3 +18,5 @@ Python3 pachong_1229.py
 
 <video src="./操作视频.mp4"></video>
 
+![image](https://user-images.githubusercontent.com/86768711/125249455-d6171a00-e327-11eb-8155-6d0edf04edff.png)
+
